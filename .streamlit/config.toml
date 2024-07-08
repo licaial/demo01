@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+[theme]
+base = "dark"
+textColor ="#000000"
+secondaryBackgroundColor = "#D5DBDB"
+backgroundColor = "#FFFAFA"
+[server]
+fileWatcherType = "auto"
